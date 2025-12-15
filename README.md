@@ -42,5 +42,3 @@ javac -d bin src/basedonnes/MiniEditeur.java
 java -cp bin basedonnes.MiniEditeur
 ## Capture d'ecran de l'editeur
 
-
-
