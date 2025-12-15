@@ -42,6 +42,7 @@ javac -d bin src/basedonnes/MiniEditeur.java
 java -cp bin basedonnes.MiniEditeur
 ## Capture d'ecran de l'editeur
 
-<img width="1366" height="768" alt="JavaTextEditor" src="https://github.com/user-attachments/assets/4d80e668-84d3-4113-96dd-f98d9c602bb9" />
+![Capture du MiniEditeur](images/MiniEditeur.png)
+
 
 
